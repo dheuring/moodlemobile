@@ -19,8 +19,8 @@
     "log_length" : 100,
     "dev_debug": false,
     "extra_js": [],
-     "gcmpn": "694767596569",
-     "notifications_enabled": true,
+    "gcmpn": "694767596569",
+    "notifications_enabled": true,
     "customurlscheme": "moodlemobile",
     "privacypolicy": "https://amideastonline.org/mod/page/view.php?id=2054"
 }
