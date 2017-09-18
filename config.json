@@ -1,7 +1,7 @@
 {
     "app_id" : "com.amideastonline.mobile",
-    "appname": "AEO Mobile",
-    "desktopappname": "AEO Desktop",
+    "appname": "AMIDEAST Online Mobile",
+    "desktopappname": "AMIDEAST Online Desktop",
     "versioncode" : "2017",
     "versionname" : "1.2",
     "cache_expiration_time" : 300000,
@@ -21,6 +21,8 @@
     "extra_js": [],
     "gcmpn": "694767596569",
     "notifications_enabled": true,
+    "skipssoconfirmation": "false",
+    "forcedefaultlanguage": "false",
     "customurlscheme": "moodlemobile",
     "privacypolicy": "https://amideastonline.org/mod/page/view.php?id=2054"
 }
