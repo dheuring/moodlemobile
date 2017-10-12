@@ -65705,7 +65705,7 @@ angular.module('mm.addons.mod_wiki')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.amideastonline.lms",
+    "app_id" : "com.amideastonline.aeo",
     "appname": "AMIDEAST Online Mobile",
     "desktopappname": "AMIDEAST Online Desktop",
     "versioncode" : "2017",
